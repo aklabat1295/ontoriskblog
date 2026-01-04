@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aklabat1295.github.io/ontoriskblog/sitemap.xml
+Sitemap: https://blog.ontorisk.com/sitemap.xml
